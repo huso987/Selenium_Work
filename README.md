@@ -19,8 +19,8 @@ To get started with these Selenium projects, you need to have Python installed o
 
 ## Projects
 
-github_list_repo.py = Saves the names of the user's repositories to a csv
-github_count_language.py  = saves the names of the user's repositories to a csv and saves the programming languages ​​used by the user in their repositories to CSV.
+- github_list_repo.py = Saves the names of the user's repositories to a csv
+- github_count_language.py  = saves the names of the user's repositories to a csv and saves the programming languages ​​used by the user in their repositories to CSV.
 
 ## Dependencies
 - Python 3.x
