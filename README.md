@@ -2,8 +2,8 @@
 
 This repository contains various projects using Selenium.
 
+![image](https://github.com/user-attachments/assets/8285bff0-f8c0-4c4a-b8e5-79e9c00f5195)
 
-                                         ![image](https://github.com/user-attachments/assets/c36a269c-bbde-4287-a25b-7e77543bac53)
 
 
 
